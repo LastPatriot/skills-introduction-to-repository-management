@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @LastPatriot
+/src/backend/database.py      @LastPatriot
+/src/backend/routers/auth.py  @LastPatriot
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @LastPatriot
